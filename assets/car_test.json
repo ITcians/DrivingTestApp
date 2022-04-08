@@ -1,0 +1,248 @@
+[
+  {
+    "q": "One broken line indicates:",
+    "option": {"a": "You can pass other vehicles and change lanes, if it is safe.",
+      "b": "You can not pass other vehicles or go across the line",
+      "c": "You can change lanes, but only when traffic conditions or obstructions in the road make it necessary",
+      "d": "None of the above"},
+    "correct": ""
+  },
+  {
+    "q": "Drivers may need more space in front of their vehicle:",
+    "option": {"a": "when it is hard to see ahead","b": "when carrying a heavy load or pulling a trailer.",
+      "c": "when following motorcycles","d": "All of the above"},
+    "correct": ""
+  },{
+  "q": "If your car goes into water, you should:",
+  "option": {"a": "wait for water to rush in and let it out in small breaths through your nose",
+    "b": "remove yourself before it starts to sink","c": "call the fire department immediately.",
+    "d": "None of the above"},
+  "correct": ""
+},{
+  "q": "The NYS law requires drivers to use their headlights:",
+  "option": {"a": "\nfrom one-half hour after the sun sets to one-half hour before the sun rises",
+    "b": "when visibility is less than 1,000 feet.",
+    "c": "when they use their windshield wipers to clear rain, fog or snow.","d": "All of the above"},
+  "correct": ""
+},{
+  "q": "When drivers come to this sign, they must:",
+  "option": {"a": "be ready to stop at the stop sign","b": "stop doing what they are doing.",
+    "c": "warn other drivers that a stop sign is ahead","d": "brake sharply and come to a complete stop"},
+  "correct": ""
+},{
+  "q": "This is:",
+  "option": {"a": "a reduction of lanes sign","b": "a right curve sign",
+    "c": "a merging traffic sign","d": "a side road sign"},
+  "correct": ""
+},{
+  "q": "What does this ‘Soft Shoulder’ sign indicate?",
+  "option": {"a": "Drivers should leave the pavement immediately","b": "Drive on the shoulder if you have soft tyres",
+    "c": "The dirt on the side of the road is soft","d": "None of the above"},
+  "correct": ""
+},{
+  "q": "What does a NO STANDING sign mean?",
+  "option": {"a": "Drivers can not stand in front of parked vehicles","b": "Vehicles can stop only to obey a traffic sign, signal or officer",
+    "c": "Drivers must discharge passengers before leaving","d": "Drivers can only make a temporary stop to load or drop off passengers"},
+  "correct": ""
+},{
+  "q": "U-turns are illegal:",
+  "option": {"a": "on limited access expressways","b": "in school zones","c": "in business districts of New York City","d": "All of the above"},
+  "correct": ""
+},{
+  "q": "For protection, motorcyclists are required to:",
+  "option": {"a": "wear approved helmets.","b": "keep their headlights and taillights on at all times.",
+    "c": "signal turns, lane changes and stops","d": "None of the above"},
+  "correct": ""
+},
+  {
+  "q": "What do warning signs mean?",
+  "option": {"a": "Drivers are approaching a hazardous location","b": "Drivers are approaching a location where there is a special rule.",
+    "c": "Danger ahead","d": "All of the above."},
+  "correct": ""
+},
+  {
+  "q": "When parking on a public road, drivers should:",
+  "option": {"a": "move as far away from traffic as possible","b": "pull as far away from the roadside shoulder as possible",
+    "c": "always park on the left side of the roadway.","d": "All of the above"},
+  "correct": ""
+},
+  {
+    "q": "Does a vehicle prepared to enter a traffic circle or rotary have right-of-way over vehicles in the circle?",
+    "option": {"a": "Only if the light is green","b": "Yes, but only if they are entering the rotary from the right lane",
+      "c": "Yes","d": "No. Vehicles already in the circle have the right-of-way"},
+    "correct": ""
+  },
+  {
+    "q": "Drivers with probationary licenses who text while driving will receive a ___-day suspension for first convictions and revocations of at least ___________ for subsequent convictions within six months of the time a license is restored after suspension.",
+    "option": {"a": "60; six months","b": "90; nine months","c": "30; three months","d": "120; one year"},
+    "correct": ""
+  },{
+  "q": "If you are in a traffic crash that involves a fatality or personal injury, you must report it to DMV within:",
+  "option": {"a": "3 months.","b": "5 days","c": "10 days","d": "30 days"},
+  "correct": ""
+},{
+  "q": "Two drivers reach an uncontrolled intersection at the same time. Who has the right of way?",
+  "option": {"a": "The driver on the right","b": "No one","c": "The driver who does not control the car","d": "The driver on the left"},
+  "correct": ""
+},{
+  "q": "A broken white line: ",
+  "option": {"a": "means passing or crossing is prohibited in that lane.","b": "separates two lanes traveling in the same directio",
+    "c": "marks the right edge of the roadway","d": "None of the above"},
+  "correct": ""
+},{
+  "q": "This sign means:",
+  "option": {"a": "Bicycles should yield to vehicles ahead.","b": "Warning: a bikeway crosses the roadway ahead",
+    "c": "The lane ahead is reserved for bicycles.","d": "Bicycle zone ahead"},
+  "correct": ""
+},{
+  "q": "The sign in the picture:",
+  "option": {"a": "s a warning sign","b": "is used to advise motorists of the appropriate ramp speed at the highway exit point",
+    "c": "shows the highest speed drivers can travel at the exit of the intersection","d": "indicates the minimum ramp speed at the highway exit poin"},
+  "correct": ""
+},{
+  "q": "A 5 oz. glass of wine (12% alcohol) contains enough alcohol to increase BAC by about:",
+  "option": {"a": "8%","b": "02%","c": "5%","d": "08%"},
+  "correct": ""
+},{
+  "q": "What is the most difficult season in which to drive?",
+  "option": {"a": "Fall","b": "Spring","c": "Winte","d": "Summer"},
+  "correct": ""
+},{
+  "q": "Parking is not allowed within __ feet of a crosswalk at an intersection",
+  "option": {"a": "20","b": "5","c": "50","d": "30"},
+  "correct": ""
+},{
+  "q": "When a stopped school bus flashes its red lights, drivers should stop at least ___ feet away from the bus.",
+  "option": {"a": "50","b": "30","c": "20","d": "05"},
+  "correct": ""
+},{
+  "q": "What can you do to prevent skids on snow and ice?",
+  "option": {"a": "Decrease pressure on the brake pedal if your wheels begin to lock","b": "Brake early and gently",
+    "c": "Allow the wheels to keep turning.","d": "All of the above"},
+  "correct": ""
+},{
+  "q": "Passengers under __ must be correctly secured in a government approved child safety seat that is attached to a vehicle by a safety belt or LATCH system",
+  "option": {"a": "6","b": "3","c": "4","d": "5"},
+  "correct": ""
+},{
+  "q": "Any bicycle crash that causes death or serious injury must be reported to DMV within ________ of the incident.",
+  "option": {"a": "30 days","b": "10 days","c": "20 days","d": "15 days"},
+  "correct": ""
+},{
+  "q": "This road sign warns drivers that:",
+  "option": {"a": "vehicles must leave the pavement immediately.","b": "the road surface ahead changes to a low-type surface or earth road",
+    "c": "the dirt on the side of the road is soft","d": "None of the above"},
+  "correct": ""
+},{
+  "q": "What should you do if your rear wheels start to skid?",
+  "option": {"a": "Take your foot off the gas and shift to neutral","b": "Steer left if your rear wheels slide right",
+    "c": "Turn the steering wheel in the direction the vehicle is trying to go.","d": "If the vehicle has ABS, pump the pedal carefully."},
+  "correct": ""
+},{
+  "q": "What should you do when an aggressive driver confronts you?",
+  "option": {"a": "Make eye contact.","b": "Return gestures and shouts.",
+    "c": "Avoid eye contact with the aggressive driver","d": "Challenge the aggressive driver with increased speed."},
+  "correct": ""
+},{
+  "q": "What is true about an ignition interlock device?",
+  "option": {"a": "It measures the alcohol content of the breath of the driver.",
+    "b": "If ordered by a judge as a condition of probation pertaining to some alcohol-related offenses, it must be",
+    "c": "purchased and installed at the expense of the motorist","d": "all the above"},
+  "correct": ""
+},{
+  "q": "If the entrance lane is too short to allow acceleration to highway speed, you should:",
+  "option": {"a": "stop and wait for a large gap in traffic, then enter the highway and accelerate quickly.",
+    "b": "go to the next entrance ramp","c": "merge into highway traffic as soon as possible.","d": "None of the above"},
+  "correct": ""
+},{
+  "q": "If your front wheels start to skid, the first thing you should do is:",
+  "option": {"a": "Take your foot off the gas pedal and shift to neutral","b": "Immediately turn in the direction you want to go.",
+    "c": "Speed up, pump your brakes and steer in the direction the vehicle is trying to g","d": "None of the above"},
+  "correct": ""
+},{
+  "q": "Higher fines and increased license penalties may result from a third or subsequent alcohol-related conviction within",
+  "option": {"a": "2 years","b": "10 years","c": "5 years","d": "3 years"},
+  "correct": ""
+},{
+  "q": "You ________ traffic headed toward you when you turn left.",
+  "option": {"a": "must yield to","b": "can handle","c": "must not yield to","d": "must interrupt"},
+  "correct": ""
+},{
+  "q": "HOV stands for",
+  "option": {"a": "High Octane Vehicle","b": "Heavy Occupancy Vehicles","c": "High Occupancy Vehicles","d": "Hydraulically Operated Valve"},
+  "correct": ""
+},{
+  "q": "Your BAC depends on:",
+  "option": {"a": "how much time passes between drinks","b": "your weight","c": "how much alcohol you drink","d": "All of the above"},
+  "correct": ""
+},{
+  "q": "Which of the following contains more alcohol?",
+  "option": {"a": "12 oz. of wine cooler","b": "5 oz. of wine","c": "1½ oz. of liquor","d": "All these drinks contain about the same amount of alcohol."},
+  "correct": ""
+},{
+  "q": "Drivers can not pass a vehicle on the left if:",
+  "option": {"a": "their lane has a solid yellow center line","b": "they can not safely return to the right lane before any oncoming vehicle comes within 200 feet of them",
+    "c": "they approach a curve on a two-way road and can not see around it","d": "All of the above"},
+  "correct": ""
+},{
+  "q": "To drive defensively, you must:",
+  "option": {"a": "assume that a driver who approaches a STOP sign on a side road is actually going to stop",
+    "b": "not check behind you through your mirrors.","c": "anticipate errors by other drivers","d": "use only one hand on the wheel."},
+  "correct": ""
+},{
+  "q": "This sign means:",
+  "option": {"a": "You can only park between 8:30 AM and 5:30 PM.","b": "Parking is not allowed at 8:30 AM and at 5:30 PM",
+    "c": "No parking between 8:30 AM and 5:30 PM.","d": "None of the above"},
+  "correct": ""
+},{
+  "q": "A solid line with broken line means:",
+  "option": {"a": "Passing is not permitted on the side with the solid line.",
+    "b": "If you are on the side with the solid line, you can not go across the line except to make a left turn into a driveway.",
+    "c": " you can pass if it’s safe to do so","d": "All of the above"},
+  "correct": ""
+},{
+  "q": "If your brakes are wet, you can dry them by:",
+  "option": {"a": "riding the pedal lightly","b": "pull over to the right and wait until it stops raining",
+    "c": "having them checked by a mechanic.","d": "None of the above."},
+  "correct": ""
+},{
+  "q": "Parking is not allowed within __ feet of a fire station driveway.",
+  "option": {"a": "20","b": "30","c": "50","d": "10"},
+  "correct": ""
+},{
+  "q": "A bicycle used at night must have a red taillight visible from at least _____ behind.",
+  "option": {"a": "100  feet","b": "300 feet","c": "200 feet","d": "50 feet"},
+  "correct": ""
+},{
+  "q": "What is the average total stopping distance of a car traveling at 55 MPH?",
+  "option": {"a": "256feet","b": "193feet","c": "123feet","d": "430feet"},
+  "correct": ""
+},{
+  "q": "Alcohol:",
+  "option": {"a": "makes drivers more prone to take chances","b": "makes it difficult for drivers to judge their condition",
+    "c": "increases reaction time.","d": "All of the above"},
+  "correct": ""
+},{
+  "q": "A vehicle that enters a road from a driveway:",
+  "option": {"a": "must enter the roadway immediately","b": "must stop and yield the right-of-way to traffic on the roadway and to pedestrians.",
+    "c": "has the right-of-way","d": "must yield to traffic approaching from the right, while it has the right-of-way over vehicles approaching from the left"},
+  "correct": ""
+},{
+  "q": "When you speed in work zones, ticket fines:",
+  "option": {"a": "double","b": "quadruple","c": "triple, even when the workers are not there","d": "triple, if the workers are in the work zone."},
+  "correct": ""
+},{
+  "q": "On slippery roads, drivers should:",
+  "option": {"a": "reduce the reaction distance","b": "increase their speed to avoid hydroplaning",
+    "c": "come to a complete stop","d": "leave more space in front of their vehicle."},
+  "correct": ""
+},{
+  "q": "You get stopped and there is a passenger under 16 without a belt. You can face a fine, and receive how many penalty points on your driver license for each violation?",
+  "option": {"a": "Two","b": "one","c": "three","d": "four"},
+  "correct": ""
+},{
+  "q": "",
+  "option": {"a": "","b": "","c": "","d": ""},
+  "correct": ""
+}
+]

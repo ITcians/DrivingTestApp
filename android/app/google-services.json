@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "980461246719",
+        "project_id": "dmv-portal",
+        "storage_bucket": "dmv-portal.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:980461246719:android:94afee90b838c8dc8814ca",
+            "android_client_info": {
+                "package_name": "com.driving_license_test"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "980461246719-poa0405norporbmfn86fgedu2skoa8mv.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyCtly6_N_O2RYHPastV60y8x4rAxjMvDrw"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "980461246719-poa0405norporbmfn86fgedu2skoa8mv.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}

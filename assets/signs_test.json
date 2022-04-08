@@ -1,0 +1,173 @@
+[
+  {
+    "q": "When drivers come to this sign, they must:",
+    "options": {"a": "be ready to stop at the stop sign","b": "stop doing what they are doing",
+      "c": "warn other drivers that a stop sign is ahead","d": "brake sharply and come to a complete stop."},
+    "correct": ""
+  },
+  {
+    "q": "What does this ‘Soft Shoulder’ sign indicate?",
+    "options": {"a": "Drivers should leave the pavement immediately.","b": "Drive on the shoulder if you have soft tyres",
+      "c": "The dirt on the side of the road is soft","d": "None of the above"},
+    "correct": ""
+  },
+  {
+    "q": "What does a NO STANDING sign mean?",
+    "options": {"a": "Drivers can not stand in front of parked vehicles.","b": "Vehicles can stop only to obey a traffic sign, signal or officer",
+      "c": "Drivers must discharge passengers before leaving","d": "Drivers can only make a temporary stop to load or drop off passengers."},
+    "correct": ""
+  },
+  {
+    "q": "U-turns are illegal:",
+    "options": {"a": "on limited access expressways","b": "in school zones.","c": "in business districts of city","d": "All of the above."},
+    "correct": ""
+  },
+  {
+    "q": "The following sign represents",
+    "options": {"a": "Overtake from right only","b": "No Right Turn","c": "No U Turn","d": "No Overtaking from Right side"},
+    "correct": "b"
+  },
+  {
+    "q": "What does below sign means?",
+    "options": {"a": "Round about ahead","b": "take left turn","c": "take right turn","d": "road is blocked"},
+    "correct": "a"
+  },
+  {
+    "q": "The following sign means",
+    "options": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "options": {"a": "No Cycles allowed","b": "Cycle crossing","c": "No Slow vehicles allowed","d": "Only for walk"},
+    "correct": "b"
+  },
+  {
+    "q": "The following sign represents",
+    "options": {"a": "slow","b": "stop","c": "Hospital ahead","d": "No parking"},
+    "correct": "b"
+  },
+  {
+    "q": "The following sign represents\n",
+    "options": {"a": "Right turn prohibited","b": "Sharp curve to the right","c": "One Way","d": "U-turn prohibited"},
+    "correct": "d"
+  },
+  {
+    "q": "The following sign represents",
+    "options": {"a": "Do Not sound Horn","b": "You may sound horn","c": "Compulsory sound horn","d": "Do not use mobile while driving"},
+    "correct": "a"
+  },
+  {
+    "q": "What does below sign indicates?",
+    "options": {"a": "Possibility of wild animals on road","b": "Only for vehicles which carry animals",
+      "c": "Road for Wild Animals only","d": "You cannot carry animal in vehicle"},
+    "correct": ""
+  },
+  {
+    "q": "The following sign represents",
+    "options": {"a": "Railway Crossing","b": "Pedestrian crossing","c": "Park Ahead","d": "Pedestrians prohibited"},
+    "correct": "b"
+  },
+  {
+    "q": "The following sign represents",
+    "options": {"a": "Compulsory turn left","b": "Keep left","c": "There is no road to the left","d": "None of these"},
+    "correct": "a"
+  },
+  {
+    "q": "The following sign represents",
+    "options": {"a": "Drive Slow","b": "Give way","c": "Stop","d": "Accident Zone"},
+    "correct": "b"
+  },
+  {
+    "q": "What does following sign represents?",
+    "options": {"a": "No Entry","b": "Rough road","c": "Falling rocks","d": "Slippery road"},
+    "correct": "c"
+  },
+  {
+    "q": "What does this sign means?",
+    "options": {"a": "One Way Road","b": "Road is Ending ahead","c": "Narrow road ahead","d": "Narrow bridge ahead"},
+    "correct": "d"
+  },
+  {
+    "q": "What does below sign means?",
+    "options": {"a": "No Overtaking","b": "Drive right side only","c": "No entry from lest side","d": "Drive left side only"},
+    "correct": "a"
+  },
+  {
+    "q": "What does following sign means?",
+    "options": {"a": "No overtaking","b": "Road Block","c": "One Way","d": "No Entry"},
+    "correct": "d"
+  },
+  {
+    "q": "What does below sign indicates",
+    "options": {"a": "there is a bridge at 30 kms","b": "Maximum Speed is 30 Kilometre/ hour",
+        "c": "Maintain Speed of 30 Kilometre/ hour","d": "Minimum Speed is 30 Kilometre/ hour"}
+  },
+  {
+    "q": "What does below sign means?",
+    "option": {"a": "Guarded Railway Crossing","b": "Bridge Ahead","c": "Police Checking","d": "Railway Station"},
+    "correct": "a"
+  },
+  {
+    "q": "What does below sign indicates?",
+    "option": {"a": "Park your vehicle here","b": "No Parking","c": "stop","d": "No Stopping / No Standing"},
+    "correct": "d"
+  },
+  {
+    "q": "What should you do if you see this sign while driving?",
+    "option": {"a": "Racing Zone","b": "Slippery road, drive fast as you can",
+      "c": "Slippery road, you should slow down speed","d": "Keep changing your lane"},
+    "correct": "c"
+  },
+  {
+    "q": "Which colour is used to paint the reverse side of all the sign plates?",
+    "option": {"a": "Red","b": "white","c": "grey","d": "none of these"},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "option": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "option": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "option": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "option": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "option": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "option": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "option": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "option": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "option": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  }
+
+]

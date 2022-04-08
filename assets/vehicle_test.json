@@ -1,0 +1,310 @@
+[
+  {
+    "q": "Before operating the vehicle, the driver should:",
+    "option": {"a":"review the last vehicle inspection report","b":"should not review the vehicle inspection report and immediately try to find any vehicle defects",
+      " c":"rely on the last vehicle inspection and skip the pre-trip inspection","d":"None of the above"},
+    "correct": ""
+  },
+  {
+    "q": "You should reject a vehicle until which of the following gets rectified?",
+    "option": {"a":"Faulty headlights","b":"Faulty windshield wipers"," c":"Faulty flashers","d":"All of the above"},
+    "correct": ""
+  },
+  {
+    "q": "Skids caused by acceleration can usually be stopped by: ",
+    "option": {"a":"coming to a complete stop.","b":"taking the foot off the accelerator",
+      " c":"applying the brakes firmly","d":"speeding up"},
+    "correct": ""
+  },
+  {
+    "q": "Effects of distracted driving include:",
+    "option": {"a":"incorrect inputs to the steering","b":"improved reaction time",
+      " c":"increased following distance","d":"reduction in braking distance"},
+    "correct": ""
+  },
+  {
+    "q": "Which of these is true about the radiator shutters and the winterfront?",
+    "option": {"a":"If the winterfront is left open, the engine may overheat",
+      "b":"You should make sure the winterfront is closed tightly",
+      " c":"You should remove ice from the radiator shutters","d":"All of the above"},
+    "correct": ""
+  },
+  {
+    "q": "You should check air pressure and temperature gauges:",
+    "option": {"a":"at the end of each trip.","b":"as often as is practical"," c":"at the beginning of each trip","d":"every time you stop"},
+    "correct": ""
+  },
+  {
+    "q": "You should signal your intention to turn at least ____ before turning or changing lanes.",
+    "option": {"a":"250feet","b":"100feet"," c":"50feet","d":"75feet"},
+    "correct": ""
+  },
+  {
+    "q": "To avoid becoming a distracted driver you should:",
+    "option": {"a":"plan your route before you begin driving","b":"clear the vehicle of any unnecessary objects",
+      " c":"avoid typing or reading a text message on a mobile device while driving","d":"All of the above."},
+    "correct": ""
+  },
+  {
+    "q": "What is an important thing to remember about emergency braking?",
+    "option": {"a":"\nThe more heavily loaded semitrailer trailer should be in the rear",
+      "b":"You should never use stab braking"," c":"Pushing down on the brake pedal as hard as you can will only keep the wheels locked up and cause a skid",
+      "d":"Your natural response (hitting the brakes) is never the right solution"},
+    "correct": ""
+  },
+  {
+    "q": "When checking the steering system for defects, you should look for:",
+    "option": {"a":"cut or cracked valve stems","b":"missing or broken leaves in any leaf spring",
+      " c":"bent, loose, or broken parts, such as tie rods.","d":"loose, broken, or missing tailpipes"},
+    "correct": ""
+  },
+  {
+    "q": "How should you apply the brakes when going down a steep downgrade?",
+    "option": {"a":"Apply the brakes when you reach the bottom of the downgrade",
+      "b":"Apply the brakes whenever you reach your safe speed, until your speed has been reduced to 5 mph below your safe speed",
+      "c":"You should not brake, and only use engine braking to prevent brake failure","d":"Apply the brakes as hard as you can without locking the wheels"},
+    "correct": ""
+  },
+  {
+    "q": "You must have at least ________ tread depth in every major groove on front tires. ",
+    "option": {"a":"4/32 inch","b":"1/2inch"," c":"2/32inch","d":"1/16 inch"},
+    "correct": ""
+  },
+  {
+    "q": "When should you inspect your vehicle and cargo?",
+    "option": {"a":"Before and during a trip","b":"Before and after a trip"," c":"Before, during and after a trip","d":"During and after a trip"},
+    "correct": ""
+  },
+  {
+    "q": "Before transporting a sealed load, you must check that:",
+    "option": {"a":"the load is properly secured","b":"the seal on the load is secure ",
+      " c":"the placard numbers and the seal numbers match","d":"the cargo is piled up."},
+    "correct": ""
+  },{
+  "q": "Most hydraulic brake failures occur for one of two reasons, one of which is:",
+  "option": {"a":"loss of hydraulic pressure","b":"relying too much on the engine braking effect.",
+    " c":"driving in cold weather","d":"excessive downshifting."},
+  "correct": ""
+},
+  {
+    "q": "If the vehicle ahead of you is smaller than yours:",
+    "option": {"a":"it will take the same amount of time to stop","b":"it can probably stop faster than you can.",
+      " c":"it will usually take longer to stop.","d":"All of the above"},
+    "correct": ""
+  },
+  {
+    "q": "What three things add up to total stopping distance?",
+    "option": {"a":"Reaction distance + viewing distance + braking distance","b":"Reaction distance + braking distance",
+      " c":"Braking distance + stopping distance","d":"Perception distance, reaction distance and braking distance"},
+    "correct": ""
+  },
+  {
+    "q": "To make an emergency using the stab braking method, you should:",
+    "option": {"a":"apply firm pressure to the brake pedal and hold for 6 seconds, then pump the pedal three times",
+      "b":"fully apply the brakes until the wheels lock up, then stay off the brake until the vehicle has slowed down.",
+      " c":"apply the brakes as hard as you can without locking the wheels",
+      "d":"apply your brakes all the way, release the brakes when the wheels lock up, and apply the brakes again as soon as the wheels start rolling"},
+    "correct": ""
+  },
+  {
+    "q": "Hydroplaning:",
+    "option": {"a":"is less likely if tire pressure is low","b":"can occur at speeds as low as 30 mph.",
+      " c":"can occur only if there is a lot of water on the road.","d":"can occur at speeds as low as 10 mph, if there is a lot of wate"},
+    "correct": ""
+  },
+  {
+    "q": "When you have to back, you should use a helper:",
+    "option": {"a":"only when you back up with a trailer.","b":"only when backing toward the right side",
+      " c":"whenever possible","d":"when you need to back on a curved path"},
+    "correct": ""
+  },{
+  "q": "Escape ramps:",
+  "option": {"a":"are designed to stop runaway vehicles safely.","b":"should not be used unless you have already tried all other possible ways to save your vehicle after brake failure",
+    " c":"cannot be used by certain types of heavy vehicles","d":"All of the above"},
+  "correct": ""
+},
+  {
+    "q": "With brake drums, if brakes become too hot:",
+    "option": {"a":"your ABS will malfunction","b":"the brakes will supply too much power to the drive wheels.",
+      " c":"the air compressor will kick on to cool the brakes","d":"The brakes may stop working"},
+    "correct": ""
+  },
+  {
+    "q": "ABS helps you:",
+    "option": {"a":"brake harder","b":"stop faster"," c":"drive faster","d":"None of the above"},
+    "correct": ""
+  },
+  {
+    "q": "Which of the following statements about over-the-counter drugs is true?",
+    "option": {"a":"They may affect safe driving ability.","b":"They are perfectly safe and legal",
+      " c":"They can be used while on duty, as long as you drink coffee to stay awake","d":"They are not considered drugs."},
+    "correct": ""
+  },
+  {
+    "q": "If you perform the skills test in a vehicle that is not equipped with air brake",
+    "option": {"a":"you will be restricted from operating vehicles with air brakes","b":"you will be required to operate vehicles with air brakes.",
+      " c":"you will be required to operate a CMV without hydraulic brakes","d":"you will be required to take the tank vehicle test"},
+    "correct": ""
+  },
+  {
+    "q": "The use of brakes on a steep downgrade is:",
+    "option": {"a":"the main braking factor","b":"much more effective than the engine braking effect.",
+      " c":"dangerous, and should be avoided at all costs.","d":"a supplement to the braking effect of the engine"},
+    "correct": ""
+  },
+  {
+    "q": "If you become drowsy while driving, you should:",
+    "option": {"a":"open the windows to get some fresh air","b":"take a break"," c":"drink plenty of coffee","d":"try to fight it"},
+    "correct": ""
+  },
+  {
+    "q": "When you have to back, use a helper whenever possible. Before you begin backing, work out a set of hand signals that you both understand. It is especially important to agree on a signal fo",
+    "option": {"a":"go","b":"move"," c":"stop","d":"getcloser"},
+    "correct": ""
+  },
+  {
+    "q": "Foundation brakes are used:",
+    "option": {"a":"only with the right wheels","b":"at each wheel"," c":"only with the rear wheels",
+      "d":"only with the front wheels"},
+    "correct": ""
+  },
+  {
+    "q": "Why should you put the starter switch key in your pocket during the pre-trip inspection?",
+    "option": {"a":"So no one moves the vehicle while you are inspecting underneath it","b":"So you don't lose it",
+      " c":"You will need it to inspect the trailer.","d":"All of the above."},
+    "correct": ""
+  },
+  {
+    "q": "To test your parking brake, do the following:",
+    "option": {"a":"Set the parking brake while going downhill","b":"Speed up to 5 mph, then set the parking brake",
+      " c":"Speed up to 15 mph, then set the parking brake","d":"Set the parking brake, and gently pull against it in a low gear"},
+    "correct": ""
+  },
+  {
+    "q": "A burning tire must be:",
+    "option": {"a":"cooled with water","b":"immediately removed from the vehicle"," c":"covered with cloth","d":"None of the above"},
+    "correct": ""
+  },
+  {
+    "q": "If you see a hazard ahead, you should:",
+    "option": {"a":"think about the emergencies that could develop and be prepared to take action","b":"call the emergency services",
+      " c":"come to a complete stop when safe to do so.","d":"none of the above"},
+    "correct": ""
+  },
+  {
+    "q": "When the spring brakes are on, you should",
+    "option": {"a":"not push the brake pedal down","b":"press the accelerato"," c":"exceed the posted speed limit","d":"pump the brakes"},
+    "correct": ""
+  },{
+  "q": "Whether or not you load and secure your load yourself, you are responsible for:",
+  "option": {"a":"inspecting your cargo","b":"knowing your cargo is properly secured",
+    " c":"recognizing overloads and poorly balanced weight","d":"All of the above"},
+  "correct": ""
+},
+  {
+    "q": "When should you downshift automatic transmissions?",
+    "option": {"a":"When you use the brake pedal during normal driving","b":"When going up steep grades",
+      " c":"When going down grades","d":"When going around curves"},
+    "correct": ""
+  },{
+  "q": "To prevent fire, you should",
+  "option": {"a":"inspect tires and cargo.","b":"inspect the electrical, fuel, and exhaust systems",
+    " c":"check that the fire extinguisher is charged","d":"All of the above"},
+  "correct": ""
+},
+  {
+    "q": "When driving trucks with trailers, drivers should:",
+    "option": {"a":"make quick lane changes","b":"push the brake pedal to the floor when braking",
+      " c":"decrease their following distance","d":"avoid making sudden movements with the steering wheel."},
+    "correct": ""
+  },{
+  "q": "To prevent drowsiness before a trip, drivers should:",
+  "option": {"a":"get adequate sleep","b":"inspect the electrical, fuel, and exhaust system"," c":"check that the fire extinguisher is charged.","d":"All of the above"},
+  "correct": ""
+},{
+  "q": "When driving trucks with trailers, drivers should",
+  "option": {"a":"make quick lane changes","b":"push the brake pedal to the floor when braking",
+    " c":"decrease their following distance","d":"avoid making sudden movements with the steering wheel"},
+  "correct": ""
+},
+  {
+    "q": "To prevent drowsiness before a trip, drivers should:",
+    "option": {"a":"get adequate sleep","b":"avoid scheduling trips for the middle of the night",
+      " c":"avoid medications that cause drowsiness","d":"All of the above"},
+    "correct": ""
+  },{
+  "q": "You should review the pre-trip inspection report from the last driver:",
+  "option": {"a":"It doesn't have to be reviewed","b":"after each trip"," c":"once a week","d":"during your pre-trip inspection"},
+  "correct": ""
+},
+  {
+    "q": "Air tank drains:",
+    "option": {"a":"are used to move air to the brakes.","b":"should not be used in wet weather",
+      " c":"protect the tanks and the rest of the system from too much pressure.","d":"are used to remove water and oil from the air tanks"},
+    "correct": ""
+  },
+  {
+    "q": "When you're in an accident and not seriously hurt, to help any injured parties you should:",
+    "option": {"a":"Keep the injured person warm","b":"Get the injured person to stand up",
+      " c":"Give the injured person a cold drink.","d":"None of the above"},
+    "correct": ""
+  },
+  {
+    "q": "To check the automatic transmission fluid:",
+    "option": {"a":"you should turn the engine off","b":"the wheel nuts must be loose"," c":"you must go down grades ","d":"the engine may have to be running"},
+    "correct": ""
+  },{
+  "q": "To prevent rollover, you should:",
+  "option": {"a":"place the cargo near the front of the trailer","b":"keep the cargo as close to the ground as possible",
+    " c":"place the cargo near the rear of the trailer.","d":"put the lightest parts of the cargo under the heaviest parts"},
+  "correct": ""
+},
+  {
+    "q": "After a tire has been changed, you should:",
+    "option": {"a":"stop a short while later and check that the nuts are tight. ","b":"decrease tire pressure",
+      " c":"deflate the tire to 15 psi","d":"wait at least 30 minutes before driving."},
+    "correct": ""
+  },
+  {
+    "q": "The height of the vehicle's center of gravity:",
+    "option": {"a":"should only be a concern when driving in high winds.","b":"should only be a concern when driving a vehicle",
+      " c":"should only be a concern when loading a vehicle.","d":"is very important for safe handling"},
+    "correct": ""
+  },
+  {
+    "q": "Anti-lock brakes:",
+    "option": {"a":"increase your stopping distance.","b":"reduce the perception distance",
+      " c":"help you stop faster.","d":"keep your brakes from locking up when you brake hard"},
+    "correct": ""
+  },
+  {
+    "q": "Why should you be in the proper gear before starting down a hill?",
+    "option": {"a":"it will help you go faster when you reach the bottom of the hill","b":"changing gears on a hill is illegal",
+      " c":"it will help the vehicle be more stable while turning","d":"gravity can cause the speed of your vehicle to increase"},
+    "correct": ""
+  },{
+  "q": "The service line is also called:",
+  "option": {"a":"power line.","b":"cable line."," c":"brake line","d":"control line"},
+  "correct": ""
+},
+  {
+    "q": "The most important reason for doing a vehicle inspection is:",
+    "options": {"a": "Liability insurance","b": "Property damage requirements","c": "Safety","d": "Employer liability"},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "options": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "options": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  },
+  {
+    "q": "",
+    "options": {"a": "","b": "","c": "","d": ""},
+    "correct": ""
+  }
+]
